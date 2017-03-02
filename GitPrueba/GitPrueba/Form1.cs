@@ -15,6 +15,9 @@ namespace GitPrueba
         public Form1()
         {
             InitializeComponent();
+
+
+            //hola mundo
         }
     }
 }
